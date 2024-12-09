@@ -3,7 +3,8 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-    site: "https://carvargas2018.github.io/ifp",
+    site: "https://carvargas2018.github.io",
+    base: "/ifp",
     integrations: [
         starlight({
             title: "My Docs",
