@@ -23,6 +23,10 @@ export default defineConfig({
                     label: "Reference",
                     autogenerate: { directory: "reference" },
                 },
+                {
+                    label: "Suplementos",
+                    autogenerate: { directory: "Suplementos" },
+                },
             ],
         }),
     ],
