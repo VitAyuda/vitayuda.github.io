@@ -1,9 +1,6 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Magnesio
 ---
-
-# Magnesio 
 
 Consumo basal de magnesio: 3-5 mg/kg (en adultos saludables).
 

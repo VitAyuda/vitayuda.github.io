@@ -1,9 +1,6 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Propóleo
 ---
-
-# Propoleo
 
 Basado en estudios animales se propone que la dosis diaria segura en adultos saludables es de 70 mg/día. 
 

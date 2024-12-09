@@ -1,11 +1,7 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Omega 3 
 ---
 
-# Omega 3 
-
- 
 
 El omega 3 son un grupo heterogéneo de ácidos grasos con doble cadena en el carbono ω−3, los más relevantes en la nutrición humana son acido eicosapentaenoico/EPA (cadena 20:5-3), acido eicosapentaenoico/DHA (22:6n-3), acido alfa-linoleico/ALA (18:3n-3).  EPA y DHA son encontrados principalmente en carnes de pescado de aguas frías, ya que en su ambiente natural requieren de mayor contenido lipídico para adaptarse a las temperaturas. Pescados como atun, salmón y sardinas son buenas fuentes de omega 3. 
 

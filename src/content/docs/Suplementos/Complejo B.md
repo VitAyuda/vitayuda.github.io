@@ -1,10 +1,6 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Complejo B 
 ---
-
-# Complejo B 
-
  
 
 El complejo B comprende un grupo de moléculas que comparten funciones, como funcionar como coenzimas en procesos celulares relacionados y por su solubilidad.  La familia comprende a **B1 tiamina**, **B2 riboflavina**, **B3 niacina**, **B5 ácido pantoténico**, **B6 piridoxina**, **B7 biotina**,**B9 folato** y **B12 cobalamina**[^1].

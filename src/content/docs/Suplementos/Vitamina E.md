@@ -1,11 +1,6 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Vitamina E  
 ---
-
-# Vitamina E  
-
- 
 
 El consumo basal de vitamina E en adultos saludables es 15 mg/día. 
 

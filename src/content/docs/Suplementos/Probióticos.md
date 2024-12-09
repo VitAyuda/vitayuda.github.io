@@ -1,11 +1,7 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Probióticos
 ---
 
-# Probióticos 
-
- 
 
 Se puede obtener de alimentos como yogurt, kimchi y kombucha. 
 

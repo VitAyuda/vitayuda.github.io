@@ -1,15 +1,9 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Colágeno
 ---
-
-# Colágeno 
-
- 
 
 La dosis oral efectiva para el tratamiento de dolor articular se ha propuesto como 15 mg/día. 
 
- 
 
 El colágeno es una de las principales proteínas estructurales del cuerpo humano, corresponde al 75% del peso de la matriz celular y está compuesta por una triple cadena de aminoácidos en forma helicoidal. Se compone por una familia de 28 tipos de colágenos que se distribuyen por todo el cuerpo en proporciones distintas, de esta forma contribuye en la estructura de complejos mecánicos y cumple una parte crucial que determina las características mecánicas, disposición y forma de los tejidos. Es la proteína más abundante en mamíferos, constituyendo un 30% del total la masa proteica. Los tres aminoácidos más abundantes del colágeno son la glicina, prolina e hidroxiprolina. 
 
@@ -21,7 +15,7 @@ Se considera que el peso molecular de los péptidos de colágeno afecta directam
 
  
 
-## Accion regenerativa de la piel 
+## Acción regenerativa de la piel 
 
 La piel es el órgano de mayor extensión encargado de la protección física de los órganos internos ante agentes externos, una piel saludable provee de una mejor protección física ante factores de oxidación, patógenos bacterianos, virus y hongos. También se encarga de comunicar al cuerpo con el mundo exterior y permite una mejor adaptación a lo largo de la vida. Existen múltiples factores que pueden provocar un envejecimiento prematuro de la piel, lo que la hace más vulnerable. 
 

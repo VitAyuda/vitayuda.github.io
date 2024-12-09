@@ -1,9 +1,6 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Vitamina C 
 ---
-
-# Vitamina C 
 
 El consumo basal de vitamina C en un adulto saludable es variable según las condiciones propias del individuo. 
 

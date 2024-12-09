@@ -1,11 +1,7 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Vitamina D3 
 ---
 
-# Vitamina D3 
-
- 
 
 La vitamina D es un micronutriente liposoluble que difícilmente se encuentra en los alimentos, en los humanos la vitamina D se obtiene de manera endógena, es decir, que el mismo cuerpo la sintetiza a partir de la exposición solar. Debido a los hábitos que mantiene la mayoría de la población y características de la latitud donde se vive, la insuficiencia de vitamina D es muy común. Alimentos grasos como atún, sardinas, salmón, hígado y yema de huevos tienen a proporcionar una buena fuente de este micronutriente a la dieta, por otro lado, podemos encontrar muchos alimentos como sopas, jugos y cereales fortificados con esta vitamina para manejar en problema de insuficiencia en la población.  
 
