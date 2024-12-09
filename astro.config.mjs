@@ -8,6 +8,12 @@ export default defineConfig({
     integrations: [
         starlight({
             title: "My Docs",
+            locales: {
+                root: {
+                    label: "Mi sitio",
+                    lang: "es",
+                },
+            },
             social: {
                 github: "https://github.com/withastro/starlight",
             },
