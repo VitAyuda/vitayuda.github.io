@@ -16,7 +16,7 @@ export default defineConfig({
                 },
             },
             social: {
-                github: "https://github.com/withastro/starlight",
+                github: "https://github.com/vitayuda/vitayuda.github.io",
             },
             sidebar: [
                 {
