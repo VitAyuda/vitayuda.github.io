@@ -1,5 +1,5 @@
 ---
-title: Vitamina C 
+title: Vitamina C
 ---
 
 El consumo basal de vitamina C en un adulto saludable es variable según las condiciones propias del individuo. 
@@ -113,31 +113,62 @@ En recientes metaanálisis se observado una disminución estadísticamente impor
 
 [^46]: Mason, S. A., Rasmussen, B., van Loon, L. J., Salmon, J., & Wadley, G. D. (2019). Ascorbic acid supplementation improves postprandial glycaemic control and blood pressure in individuals with type 2 diabetes: Findings of a randomized cross‐over trial. Diabetes, obesity and metabolism, 21(3), 674-682.
 
-En pacientes diabéticos y aquellos cursando con un estado hiperglucémico en plasma la insulina glucosilada se ve elevada alterando el mecanismo mediado por la insulina para disminuir la glucosa en sangre. Esta insulina glicosilada pasa a tener una mayor afinidad por el receptor para productos de glicación y no la afinidad correspondiente a los receptores de insulina, lo que avanza a un deterioro de la señalización de los receptores de insulina, aumentando también la concentración de daño oxidativo. La accion de la vitamina C para reducir este deterioro es disminuyendo la glicación de la insulina en el páncreas y por ende disminuyendo así la concentración de la insulina glicosilada en sangre. 
+En pacientes diabéticos y aquellos cursando con un estado hiperglucémico en plasma la insulina glucosilada se ve elevada alterando el mecanismo mediado por la insulina para disminuir la glucosa en sangre[^48]. Esta insulina glicosilada pasa a tener una mayor afinidad por el receptor para productos de glicación y no la afinidad correspondiente a los receptores de insulina, lo que avanza a un deterioro de la señalización de los receptores de insulina, aumentando también la concentración de daño oxidativo[^49]. La accion de la vitamina C para reducir este deterioro es disminuyendo la glicación de la insulina en el páncreas y por ende disminuyendo así la concentración de la insulina glicosilada en sangre[^47]. 
 
-También se ha observado que la vitamina C puede tener efectos beneficiosos en aquellos pacientes diabéticos con presión alta. En un grupo de personas se probaron los efectos que tendría esta suplementación con una dosis de 500-1000 mg/día por 1 a 2 meses, se observó que hubo una disminución media de 6,27 mmHg en la presión sistólica y de 3,77 mmHg en la presión diastólica. 
+[^47]: Abdel-Wahab, Y. H., O'Harte, F. P., Mooney, M. H., Barnett, C. R., & Flatt, P. R. (2002). Vitamin C supplementation decreases insulin glycation and improves glucose homeostasis in obese hyperglycemic (ob/ob) mice. Metabolism-Clinical and Experimental, 51(4), 514-517.
+[^48]: Hunter, S. J., Boyd, A. C., O’Harte, F. P., McKillop, A. M., Wiggam, M. I., Mooney, M. H., ... & Flatt, P. R. (2003). Demonstration of glycated insulin in human diabetic plasma and decreased biological activity assessed by euglycemic-hyperinsulinemic clamp technique in humans. Diabetes, 52(2), 492-498.
+[^49]: Walke, P. B., Bansode, S. B., More, N. P., Chaurasiya, A. H., Joshi, R. S., & Kulkarni, M. J. (2021). Molecular investigation of glycated insulin-induced insulin resistance via insulin signaling and AGE-RAGE axis. Biochimica et Biophysica Acta (BBA)-Molecular Basis of Disease, 1867(2), 166029.
+
+También se ha observado que la vitamina C puede tener efectos beneficiosos en aquellos pacientes diabéticos con presión alta[^50][^51]. En un grupo de personas se probaron los efectos que tendría esta suplementación con una dosis de 500-1000 mg/día por 1 a 2 meses, se observó que hubo una disminución media de 6,27 mmHg en la presión sistólica y de 3,77 mmHg en la presión diastólica[^51]. 
+[^50]: Juraschek, S. P., Guallar, E., Appel, L. J., & Miller III, E. R. (2012). Effects of vitamin C supplementation on blood pressure: a meta-analysis of randomized controlled trials. The American journal of clinical nutrition, 95(5), 1079-1088.
+[^51]: Mason, S. A., Keske, M. A., & Wadley, G. D. (2021). Effects of vitamin C supplementation on glycemic control and cardiovascular risk factors in people with type 2 diabetes: a GRADE-assessed systematic review and meta-analysis of randomized controlled trials. Diabetes care, 44(2), 618-630.
+
 
 Una de las complicaciones de la diabetes avanzada son las ulceras del pie diabético, que se debe a una alteración neurológica y/o por una enfermedad vascular periférica que hace propenso al paciente diabético a presentar ulceraciones, infecciones o destrucción de tejidos profundos. Las ulceras del pie diabético tienen una alta probabilidad de terminar en una amputación si no son tratadas a tiempo. La vitamina C puede apoyar en la recuperación e incluso se plantea como un posible tratamiento, esto es gracias a su contribución en la formación de colágeno, sobre el sistema inmunológico y su actividad antioxidante. 
+[^52]: Brookes, J. D. L., Jaya, J. S., Tran, H., Vaska, A., Werner-Gibbings, K., D’Mello, A. C., ... & Yii, M. K. (2020). Broad-ranging nutritional deficiencies predict amputation in diabetic foot ulcers. The international journal of lower extremity wounds, 19(1), 27-33.
+[^53]:Gunton, J. E., Girgis, C. M., Lau, T., Vicaretti, M., Begg, L., & Flood, V. (2021). Vitamin C improves healing of foot ulcers: A randomised, double-blind, placebo-controlled trial. British Journal of Nutrition, 126(10), 1451-1458. 
+[^54]:Pena, G., Kuang, B., Cowled, P., Howell, S., Dawson, J., Philpot, R., & Fitridge, R. (2020). Micronutrient status in diabetic patients with foot ulcers. Advances in wound care, 9(1), 9-15.
 
-En general se vio una mejor respuesta en aquellos pacientes con alto HbA1c ya dosis diarias de 500-1000 mg. 
+En general se vio una mejor respuesta en aquellos pacientes con alto HbA1c y a dosis diarias de 500-1000 mg. 
+[^55]: Mason, S. A., Parker, L., Van Der Pligt, P., & Wadley, G. D. (2022). Vitamin C supplementation for diabetes management: A comprehensive narrative review. Free Radical Biology and Medicine, 194, 255–283. https://doi.org/10.1016/j.freeradbiomed.2022.12.003
 
 ## Accion coadyuvante en el sistema inmunológico 
 
-El sistema inmunológico se compone de distintas barreras y la accion de la vitamina C puede actuar en la mayoría de estas. 
+El sistema inmunológico se compone de distintas barreras y la accion de la vitamina C puede actuar en la mayoría de estas[^57]. 
+[^57]: Rondanelli, M., Miccono, A., Lamburghini, S., Avanzato, I., Riva, A., Allegrini, P., Faliva, M. A., Peroni, G., Nichetti, M., & Perna, S. (2018). Self‐Care for Common Colds: The Pivotal Role of Vitamin D, Vitamin C, Zinc, and Echinacea in Three Main Immune Interactive Clusters (Physical Barriers, Innate and Adaptive Immunity) Involved during an Episode of Common Colds—Practical Advice on Dosages and on the Time to Take These Nutrients/Botanicals in order to Prevent or Treat Common Colds. Evidence-based Complementary and Alternative Medicine, 2018(1). https://doi.org/10.1155/2018/5813095
 
-La primera barrera de defensa del sistema inmune es la física incluida piel, pelo y mucosas externas. Se ha observado que la suplementación con vitamina C tiene un efecto antioxidante importante en estas barreras físicas, preservando su integridad ante factores externos e internos. 
+La primera barrera de defensa del sistema inmune es la física incluida piel, pelo y mucosas externas. Se ha observado que la suplementación con vitamina C tiene un efecto antioxidante importante en estas barreras físicas, preservando su integridad ante factores externos e internos[^56][^57]. 
+[^56]: Lauer, A. C., Groth, N., Haag, S. F., Darvin, M. E., Lademann, J., & Meinke, M. C. (2013). Dose-dependent vitamin C uptake and radical scavenging activity in human skin measured with in vivo electron paramagnetic resonance spectroscopy. Skin pharmacology and physiology, 26(3), 147-154.
 
-La segunda barrera de defensa es la inmunidad innata celular, aunque su efectividad no está completamente respaldada ya que no existe una relación directa entre la concentración plasmática de la vitamina C con algún tipo de marcador celular.  
+La segunda barrera de defensa es la inmunidad innata celular, aunque su efectividad no está completamente respaldada ya que no existe una relación directa entre la concentración plasmática de la vitamina C con algún tipo de marcador celular[^57][^59][^60][^61][^62].
+[^59]:  Penn N. D., Purkins L., Kelleher J., Heatley R. V., Mascie-taylor B. H., and Belfield P. W., The effect of dietary supplementation with vitamins A, C and E on cell-mediated immune function in elderly long-stay patients: A randomized controlled trial, Age and Ageing. (1991) 20, no. 3, 169–174, 2-s2.0-0025859057, https://doi.org/10.1093/ageing/20.3.169.
+[^60]: Schertling M., Winsel K., Muller S., Henning R., Meiske W., and Slapke J., Action of ascorbic acid on clinical course of infectionrelated bronchial asthma and on reactive oxygen metabolites by BAL cells, Zeitschrift für klinische Medizin. (1990) 45, no. 20, 1770–1774, 2-s2.0-0025093308.
+[^61]: Harper L., Nuttall S. L., Martin U., and Savage C. O. S., Adjuvant treatment of patients with antineutrophil cytoplasmic antibody-associated vasculitis with vitamins E and C reduces superoxide production by neutrophils, Rheumatology. (2002) 41, no. 3, 274–278, 2-s2.0-0036100384, https://doi.org/10.1093/rheumatology/41.3.274.
+[^62]: Du W.-D., Yuan Z.-R., Sun J., Tang J.-X., Cheng A.-Q., Shen D.-M., Huang C.-J., Song X.-H., Yu X.-F., and Zheng S.-B., Therapeutic efficacy of high-dose vitamin C on acute pancreatitis and its potential mechanisms, World Journal of Gastroenterology. (2003) 9, no. 11, 2565–2569, 2-s2.0-0344467383, https://doi.org/10.3748/wjg.v9.i11.2565.
 
-La tercera barrera es la respuesta inmune adaptativa. Si bien no se observó una mejoría en la capacidad antioxidante ni en respuesta de marcadores celulares, si se ha registrado un acortamiento en la duración total del resfriado común y una disminución en la gravedad de los síntomas, en adultos se reduce en un 8% y en niños un 14% con dosis diarias de 1-2 gramos. Otros estudios afirman que, si bien la duración del resfriado se ve reducida, esto es por lo máximo en un promedio de 1 día. 
+
+La tercera barrera es la respuesta inmune adaptativa. Si bien no se observó una mejoría en la capacidad antioxidante ni en respuesta de marcadores celulares, si se ha registrado un acortamiento en la duración total del resfriado común y una disminución en la gravedad de los síntomas, en adultos se reduce en un 8% y en niños un 14% con dosis diarias de 1-2 gramos. Otros estudios afirman que, si bien la duración del resfriado se ve reducida, esto es por lo máximo en un promedio de 1 día[^58][^57].
+[^58]: Dunstan, J. A., Breckler, L., Hale, J., Lehmann, H., Franklin, P., Lyons, G., ... & Prescott, S. L. (2007). Supplementation with vitamins C, E, β‐carotene and selenium has no effect on anti‐oxidant status and immune responses in allergic adults: a randomized controlled trial. Clinical & Experimental Allergy, 37(2), 180-187.
 
  
 ## Relación entre la vitamina C la integridad del tejido conectivo  
 
-La molécula de colágeno presenta naturalmente una conformación tipo triple-hélice, para obtener esta forma su conformación inicial debe ser estable y completa, la vitamina C es un cofactor para enzimas intermedias en la formación del procolágeno precursor del colágeno.  
+La molécula de colágeno presenta naturalmente una conformación tipo triple-hélice, para obtener esta forma su conformación inicial debe ser estable y completa; la vitamina C es un cofactor para enzimas intermedias en la formación del procolágeno precursor del colágeno[^63][^64][^65].
+[^63]: Franceschi RT, Wilson JX, Dixon SJ. Requirement for Na(+)-dependent ascorbic acid transport in osteoblast function. Am J Physiol. 1995;268(6 pt 1):C1430–C1439.
+[^64]: Manela-Azulay M, Bagatin E. Cosmeceuticals vitamins. Clin Dermatol. 2009;27(5):469–474.
+[^65]: DePhillipo, N. N., Aman, Z. S., Kennedy, M. I., Begley, J., Moatshe, G., & LaPrade, R. F. (2018). Efficacy of vitamin C supplementation on collagen synthesis and oxidative stress after musculoskeletal injuries: a Systematic review. Orthopaedic Journal of Sports Medicine, 6(10), 232596711880454. https://doi.org/10.1177/2325967118804544
 
-Por otro lado, la función antioxidante de la vitamina C reduce a las formas reactivas del oxígeno a nivel epitelial, disminuyendo la inflamación de estas células y su potencial apoptosis.  
+Por otro lado, la función antioxidante de la vitamina C reduce a las formas reactivas del oxígeno a nivel epitelial, disminuyendo la inflamación de estas células y su potencial apoptosis[^66][^67][^68].  
+[^66]: Badr G, Hozzein WN, Badr BM, Al Ghamdi A, Saad Eldien HM, Garraud O. Bee venom accelerates wound healing in diabetic mice by suppressing activating transcription factor-3 (ATF-3) and inducible nitric oxide synthase (iNOS)-mediated oxidative stress and recruiting bone marrow-derived endothelial progenitor cells. J Cell Physiol. 2016;231(10):2159–2171.
+[^67]: Garrett IR, Boyce BF, Oreffo RO, Bonewald L, Poser J, Mundy GR. Oxygen-derived free radicals stimulate osteoclastic bone resorption in rodent bone in vitro and in vivo. J Clin Invest. 1990;85(3):632–639.
+[^68]: Gokturk E, Turgut A, Baycu C, Gunal I, Seber S, Gulbas Z. Oxygen-free radicals impair fracture healing in rats. Acta Orthop Scand. 1995;66(5):473–475.
 
-También se ha reportado que puede contribuir en el desarrollo y diferenciación de osteoblastos en el tejido óseo, así como en la estimulación fibroblástica.  
+También se ha reportado que puede contribuir en el desarrollo y diferenciación de osteoblastos en el tejido óseo, así como en la estimulación fibroblástica[^65][^69][^70][^71][^72].  
 
-La evidencia experimental sobre el rol de la vitamina C en la recuperación de heridas musculares importantes es limitada, pero se ha evidenciado su rol en procesos de recuperación esqueléticos. Específicamente, en un grupo de pacientes que sufrieron un desgarro en el ligamento cruzado anterior de la rodilla, se vio una mejoría en la estabilidad y deterioro del injerto en un plazo de 6 semanas en comparación con un grupo control con un tratamiento similar, pero sin consumir vitamina C. 
+[^69]: Lee YW, Fu SC, Yeung MY, Lau CML, Chan KM, Hung LK. Effects of redox modulation on cell proliferation, viability, and migration in cultured rat and human tendon progenitor cells. Oxid Med Cell Longev. 2017;2017:8785042.
+[^70]: Otsuka E, Yamaguchi A, Hirose S, Hagiwara H. Characterization of osteoblastic differentiation of stromal cell line ST2 that is induced by ascorbic acid. Am J Physiol. 1999;277(1 pt 1):C132–C138.
+[^71]: Harada S, Matsumoto T, Ogata E. Role of ascorbic acid in the regulation of proliferation in osteoblast-like MC3T3-E1 cells. J Bone Miner Res. 1991;6(9):903–908.
+[^72]: Ganta DR, McCarthy MB, Gronowicz GA. Ascorbic acid alters collagen integrins in bone culture. Endocrinology. 1997;138(9):3606–3612.
+
+La evidencia experimental sobre el rol de la vitamina C en la recuperación de heridas musculares importantes es limitada, pero se ha evidenciado su rol en procesos de recuperación esqueléticos[^65]. Específicamente, en un grupo de pacientes que sufrieron un desgarro en el ligamento cruzado anterior de la rodilla, se vio una mejoría en la estabilidad y deterioro del injerto en un plazo de 6 semanas en comparación con un grupo control con un tratamiento similar, pero sin consumir vitamina C[^73]. 
+[^73]: Fu SC, Cheng WH, Cheuk YC, et al. Development of vitamin C irrigation saline to promote graft healing in anterior cruciate ligament reconstruction. J Orthop Trans. 2013;1:67–77.

@@ -1,5 +1,5 @@
 ---
-title: Vitamina E  
+title: Vitamina E
 ---
 
 El consumo basal de vitamina E en adultos saludables es 15 mg/día. 

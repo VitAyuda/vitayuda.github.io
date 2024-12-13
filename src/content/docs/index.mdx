@@ -1,27 +1,39 @@
 ---
-title: Bienvenido a VitAyuda
-description: tu pagina con cositas de vitaminas.
+title: Bienvenido a VitAyuda 
 hero:
-    tagline: haz click en los items de la barra lateral para mas informacion
+    tagline: VitAyuda busca proporcionar información actualizada y de origen académico sobre los suplementos alimenticios más populares. 
     image:
         file: ../../assets/vitayuda.png
 ---
+import { Card, CardGrid, Aside } from "@astrojs/starlight/components";
 
-import { Card, CardGrid } from "@astrojs/starlight/components";
 
-## Que cosas te podemos ayudar :o
 
-<CardGrid stagger>
-    <Card title="Update content" icon="pencil">
-        prueba2
-    </Card>
-    <Card title="Add new content" icon="add-document">
-        Add Markdown or MDX files to `src/content/docs` to create new pages.
-    </Card>
-    <Card title="Configure your site" icon="setting">
-        Edit your `sidebar` and other config in `astro.config.mjs`.
-    </Card>
-    <Card title="Read the docs" icon="open-book">
-        Learn more in [the Starlight Docs](https://starlight.astro.build/).
-    </Card>
-</CardGrid>
+<Card title="Cómo funciona" icon="laptop">
+    En la parte superior puedes utilizar el icono de ‘lupa’ para buscar por palabra.  
+
+    Si te encuentras en la versión de escritorio: utiliza el menú desplegado de la izquierda para acceder a las entradas disponibles. 
+
+    Si te encuentras en la versión para celulares: utiliza el menú desplegable de la esquina superior derecha para acceder a las entradas disponibles. 
+</Card>
+
+<Card title="Suplementos" icon="heart">
+    Los suplementos alimenticios incluyen una gran gama de productos como vitaminas, minerales, extractos de plantas, extractos de animales, entre otros. Como su nombre lo indica, su función es suplir una deficiencia del organismo, aunque también se pueden consumir para aumentar o complementar la dieta. 
+
+    Se pueden encontrar a la venta libre en múltiples plataformas en internet, así como en locales establecidos. 
+</Card>
+<Card title="Academicamente revisado" icon="open-book">
+    Toda la información disponible en VitAyuda ha sido extraída a través de herramientas de búsqueda académica certificadas como pubmed, elsevier y  medscape. Cada una de las entradas cita el origen de los datos para la disposición del público. 
+</Card>
+<Card title="Contacto" icon="email">
+    Si requieres ayuda o tienes alguna sugerencia no dudes en contactar al correo a continuación.
+    
+    vit.ayudacontacto@gmail.com
+
+
+</Card>
+
+
+<Aside>
+Esta plataforma no mantiene ningún interés comercial, nuestra intención es velar por la integridad de la información entregada y dar acceso libre a toda persona que desee conocer sobre los suplementos que consume. 
+</Aside>
