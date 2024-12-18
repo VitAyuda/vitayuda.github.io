@@ -1,11 +1,15 @@
 ---
 title: Colágeno
 ---
+
+ 
+
 La dosis oral efectiva para el tratamiento de dolor articular se ha propuesto como 15 mg/día. 
 
  
 
 El colágeno es una de las principales proteínas estructurales del cuerpo humano, corresponde al 75% del peso de la matriz celular[^1] y está compuesta por una triple cadena de aminoácidos en forma helicoidal[^2]. Se compone por una familia de 28 tipos de colágenos que se distribuyen por todo el cuerpo en proporciones distintas, de esta forma contribuye en la estructura de complejos mecánicos y cumple una parte crucial que determina las características mecánicas, disposición y forma de los tejidos[^3]. Es la proteína más abundante en mamíferos, constituyendo un 30% del total la masa proteica. Los tres aminoácidos más abundantes del colágeno son la glicina, prolina e hidroxiprolina[^4]. 
+
 [^1]: Morgado-Carrasco, D., Gil-Lianes, J., Jourdain, E., & Piquero-Casals, J. (2022). Tratamiento mediante suplementación oral o fármacos sistémicos del envejecimiento cutáneo. Revisión narrativa de la literatura. Actas Dermo-Sifiliográficas, 114(2), 114–124. https://doi.org/10.1016/j.ad.2022.09.014
 [^2]: Wang H. A Review of the Effects of Collagen Treatment in Clinical Studies. Polymers. 2021;13:3868. doi: 10.3390/polym13223868.
 [^3]: Ricard-Blum S. The collagen family. Cold Spring Harb. Perspect. Biol. 2011;3:a004978. doi: 10.1101/cshperspect.a004978.
@@ -32,6 +36,7 @@ Se considera que el peso molecular de los péptidos de colágeno afecta directam
 La piel es el órgano de mayor extensión encargado de la protección física de los órganos internos ante agentes externos, una piel saludable provee de una mejor protección física ante factores de oxidación, patógenos bacterianos, virus y hongos. También se encarga de comunicar al cuerpo con el mundo exterior y permite una mejor adaptación a lo largo de la vida. Existen múltiples factores que pueden provocar un envejecimiento prematuro de la piel, lo que la hace más vulnerable. 
 
 Estudios relacionados han comprobado que el consumo de colágeno oral puede revertir la disminución de la biosíntesis de colágeno endógeno. Un artículo publicado en 2020 para la revista de dermatología cosmética de Wiley Periodicals por Malkanthi Evans, Erin D Lewis, Nisrine Zakaria, Tetyana Pelipyagina, Najla Guthrie revelo que tras un consumo de tres meses de colágeno hidrolizado se redujo la apariencia de las arrugas en un 35%, un aumento de la hidratación de la piel en un 14%, un aumento en la luminosidad de la piel en un 25% y una mejoría general en el aspecto de la piel respecto al grupo placebo[^10].  
+
 [^10]: Evans M., Lewis E.D., Zakaria N., Pelipyagina T., Guthrie N. A Randomized, Triple-blind, Placebo-controlled, Parallel Study to Evaluate the Efficacy of a Freshwater Marine Collagen on Skin Wrinkles and Elasticity. J. Cosmet. Dermatol. 2021;20:825–834. doi: 10.1111/jocd.13676.
 
 Se considera que su accion regenerativa se debe principalmente a la activación de la actividad de los fibroblastos, los cuales aumentan la concentración de colágeno dándole mejor aspecto de turgencia a la piel, además de ser el principal factor de señales de regeneración del tejido. Por otro lado, los aminoácidos libres del colágeno hidrolizado son utilizados como material para la formación de más colágeno y fibras de elastina[^2][^8][^9]. 
@@ -58,6 +63,7 @@ El colágeno animal tiene tres fuentes tradicionales: bovino, porcino y aviar[^1
 ## Actividad regenerativa en articulaciones 
 
 Con el paso de los años el cuerpo pierde la capacidad de sus articulaciones derivando a complicaciones comunes en adultos mayores como la osteoartritis, esta se caracteriza por una inflamación crónica y destrucción progresiva del cartílago articular. Produce una disminución en la calidad de vida del paciente que disminuye su propia movilidad además de presentar un dolor constante[^23][^24].  
+
 [^23]: Neogi T. The Epidemiology and Impact of Pain in Osteoarthritis. Osteoarthr. Cartil. 2013;21:1145–1153. doi: 10.1016/j.joca.2013.03.018.
 [^24]: Honvo G., Lengelé L., Charles A., Reginster J.-Y., Bruyère O. Role of Collagen Derivatives in Osteoarthritis and Cartilage Repair: A Systematic Scoping Review with Evidence Mapping. Rheumatol. Ther. 2020;7:703–740. doi: 10.1007/s40744-020-00240-5. 
 
@@ -91,6 +97,7 @@ El colágeno hidrolizado es la forma reducida en péptidos de la forma original,
 La recuperación pronta y completa de las articulaciones tras un desgarro es de vital importancia para los deportistas, y bajo el contexto de una persona con menor actividad física diaria el poder recuperar la comodidad les devuelve la capacidad para realizar sus actividades diarias de manera óptima.  
 
 El ultimo metaanálisis evaluando la capacidad de la suplementación con colágeno en la recuperación de lesiones articulares fue publicado en 2021 considero 15 estudios de distintas partes del mundo[^36].  
+
 [^36]: Khatri, M., Naughton, R. J., Clifford, T., Harper, L. D., & Corr, L. (2021). The effects of collagen peptide supplementation on body composition, collagen synthesis, and recovery from joint injury and exercise: a systematic review. Amino Acids, 53(10), 1493–1506. https://doi.org/10.1007/s00726-021-03072-x
 
 Primero se estudió el efecto de la suplementación con colágeno hidrolizado en la recuperación del ejercicio, en particular, se evaluó la recuperación tras ejercicio intenso de fuerza con levantamiento de pesas. Se concluyo que existía una mejoría moderada en la capacidad de resistencia de los participantes con una menor incidencia de dolor muscular, asociándose a la capacidad del colágeno en acelerar la recuperación del tejido conectivo.   

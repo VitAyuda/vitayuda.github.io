@@ -1,6 +1,6 @@
 ---
 title: Vitamina D3
---- 
+---
 
 ![aa0519575acb3841a83baf11ddb43c61.png](../_resources/aa0519575acb3841a83baf11ddb43c61.png)[^68]
 
@@ -8,6 +8,7 @@ title: Vitamina D3
  
 
 La vitamina D es un micronutriente liposoluble que difícilmente se encuentra en los alimentos, en los humanos la vitamina D se obtiene de manera endógena, es decir, que el mismo cuerpo la sintetiza a partir de la exposición solar[^1]. Debido a los hábitos que mantiene la mayoría de la población y características de la latitud donde se vive, la insuficiencia de vitamina D es muy común. Alimentos grasos como atún, sardinas, salmón, hígado y yema de huevos tienen a proporcionar una buena fuente de este micronutriente a la dieta, por otro lado, podemos encontrar muchos alimentos como sopas, jugos y cereales fortificados con esta vitamina para manejar en problema de insuficiencia en la población[^2].  
+
 [^1]: Carlberg C. Molecular approaches for optimizing vitamin D supplementation. Vitam. Horm. 2016;100:255–271. doi: 10.1016/bs.vh.2015.10.001.
 [^2]: Bendik I., Friedel A., Roos F.F., Weber P., Eggersdorfer M. Vitamin D: A critical and essential micronutrient for human health. Front. Physiol. 2014;5:248. doi: 10.3389/fphys.2014.00248.
 
@@ -40,6 +41,7 @@ La concentración de vitamina D activa en el cuerpo esta estrictamente regulada 
 ## Advertencias 
 
 La intoxicación por vitamina D se caracteriza a nivel de laboratorio por una marcada hipercalcemia y niveles de 25(OH)D3 >375 nmol/L. Se pueden presentar síntomas como alteraciones cognitivas, confusión, apatía, mareo, depresión, psicosis y en casos extremos llegar al coma. Los síntomas gastrointestinales varían desde dolor abdominal, vómitos, polidipsia, anorexia, constipación, ulceras pépticas hasta pancreatitis[^15]. Las alteraciones cardiovasculares que se pueden presentar son hipertensión, disminución del intervalo QT, elevación del segmento ST y bradicardia. Los síntomas renales incluyen hipercalcemia, poliuria, polidipsia, deshidratación, nefro calcemia y falla renal[^16]. 
+
 [^15]: Marcinowska-Suchowierska E., Kupisz-Urbanska M., Lukaszkiewicz J., Pludowski P., Jones G. Vitamin D Toxicity-A Clinical Perspective. Front Endocrinol. 2018;9:550. doi: 10.3389/fendo.2018.00550.
 [^16]: Rolf L., Muris A.H., Bol Y., Damoiseaux J., Smolders J., Hupperts R. Vitamin D3 supplementation in multiple sclerosis: Symptoms and biomarkers of depression. J. Neurol. Sci. 2017;378:30–35. doi: 10.1016/j.jns.2017.04.017.
 
@@ -68,6 +70,7 @@ La suplementación de vitamina D3 por sí sola no ha mostrado resultados estadí
 ## Accion de la vitamina D en la regulación sobre el sistema inmune 
 
 El interés sobre la actividad de la vitamina D en el sistema inmune inicia por su potencial antimicrobiano, desde los años 60 se conoce el rol que cumple el colecalciferol frente a la Mycobacterium tuberculosis, causante de la tuberculosis[^25]. La vitamina D se encarga de activar la actividad antimicrobiana de macrófagos y monocitos, lo que a su vez estimula la producción de catelicidinas, péptidos antimicrobianos que se adhieren a la membrana microbiana eliminando al agente patógeno[^26][^27][^28][^29]. Estas catelicidinas pueden actuar sobre distintos tipos de bacterias, hongos e incluso virus respiratorios[^30][^31][^32][^33]. 
+
 [^25]: Gombart A.F., Borregaard N., Koeffler H.P. Human cathelicidin antimicrobial peptide (CAMP) gene is a direct target of the vitamin D receptor and is strongly up-regulated in myeloid cells by 1,25-dihydroxyvitamin D3. FASEB J. 2005;19:1067–1077. doi: 10.1096/fj.04-3284com.
 [^26]: Shahmiri, M., Enciso, M., Adda, C. G., Smith, B. J., Perugini, M. A., & Mechler, A. (2016). Membrane core-specific antimicrobial action of cathelicidin LL-37 peptide switches between pore and nanofibre formation. Scientific reports, 6(1), 38184.
 [^27]: Barlow, P. G., Svoboda, P., Mackellar, A., Nash, A. A., York, I. A., Pohl, J., ... & Donis, R. O. (2011). Antiviral activity and increased host defense against influenza infection elicited by the human cathelicidin LL-37. PloS one, 6(10), e25333.
@@ -79,6 +82,7 @@ El interés sobre la actividad de la vitamina D en el sistema inmune inicia por 
 [^33]: Sousa, F. H., Casanova, V., Findlay, F., Stevens, C., Svoboda, P., Pohl, J., ... & Barlow, P. G. (2017). Cathelicidins display conserved direct antiviral activity towards rhinovirus. Peptides, 95, 76-83.
 
 Se ha evidenciado que la vitamina D y sus metabolitos tienen una importante influencia sobre la función de varias células inmunes. Dentro de sus funciones en el sistema inmune, la vitamina D influye en la actividad de las células detríticas y la producción de la citoquina proinflamatoria IL-12[^34][^35]; también regula la actividad de las células NK del sistema inmune; el proceso de desgranulación que libera productos de ataque desde el interior de células especializadas; interviene en la diferenciación y proliferación de células B, disminuyendo la producción de anticuerpos y anti anticuerpos; la liberación de citoquinas proinflamatorias y la expresión de TLR4 que activa la respuesta inmune[^36]. Todas estas funciones sugieren que la vitamina D puede cumplir un papel complementario ante enfermedades autoinmunes como cáncer, psoriasis, esclerosis múltiple, artritis reumatoide, entre otras.  
+
 [^34]: Ao, T., Kikuta, J., & Ishii, M. (2021). The effects of vitamin D on immune system and inflammatory diseases. Biomolecules, 11(11), 1624.
 [^35]: Rosen, Y., Daich, J., Soliman, I., Brathwaite, E., & Shoenfeld, Y. (2016). Vitamin D and autoimmunity. Scandinavian journal of rheumatology, 45(6), 439-447.
 [^36]: Sîrbe, C., Rednic, S., Grama, A., & Pop, T. L. (2022). An update on the effects of vitamin D on the immune system and autoimmune diseases. International Journal of Molecular Sciences, 23(17), 9784. https://doi.org/10.3390/ijms23179784
@@ -120,9 +124,11 @@ La vitamina D y sus metabolitos interviene en la permeabilidad vascular y funci�
 [^49]: Molinari, C.; Uberti, F.; Grossini, E.; Vacca, G.; Carda, S.; Invernizzi, M.; Cisari, C. 1α,25-Dihydroxycholecalciferol Induces Nitric Oxide Production in Cultured Endothelial Cells. Cell. Physiol. Biochem. 2011, 27, 661–668. 
 
 En modelos animales se observó que los metabolitos de vitamina D estimulaban las uniones celulares basadas en la cadherina endotelial vascular (VE-cadherin) permitiendo una mejor conectividad y comunicación entre las celulas del tejido endotelial vascular; inhiben la formación de fibras de estrés asociadas a la aparición de metástasis; y limitan el daño endotelial en la enfermedad renal crónica[^50]. Estos descubrimientos sugieren que la vitamina D tiene un papel preventivo en la disfunción vascular y sobre la inflamación sistémica asociada al daño de los tejidos. 
+
 [^50]: Vila Cuenca, M., Ferrantelli, E., Meinster, E., Pouw, S. M., Kovačević, I., de Menezes, R. X., ... & Vervloet, M. G. (2018). Vitamin D attenuates endothelial dysfunction in uremic rats and maintains human endothelial stability. Journal of the American Heart Association, 7(17), e008776.
 
 Estudios en animales han evidenciado también que la vitamina D puede regular el sistema regina-angiotensina-aldosterona por supresión de la expresión genética de renina[^51]. Este sistema actúa directamente sobre la presión arterial, siendo uno de los focos principales de tratamiento farmacológico modernos. 
+
 [^51]: Li YC, Qiao G, Uskokovic M, Xiang W, Zheng W, Kong J. Vitamin D: a negative endocrine regulator of the renin-angiotensin system and blood pressure. J Steroid Biochem Mol Biol. 2004;89-90(1-5):387-392. doi: 10.1016/j.jsbmb.2004.03.004 
 
 A pesar de la evidencia positiva, los estudios en humanos realizados hasta la fecha han dado resultados contradictorios entre sí. El estudio más reciente en pacientes adultos mayores fue publicado en 2020, donde más de 2000 participantes de 70 años o más fueron suplementados con vitamina D con un seguimiento de 3 años, el estudio concluyo que si bien se obtuvieron resultados mixtos no se podría considerar un efecto estadísticamente significativo sobre la salud cognitiva, capacidad fisica ni la presión sanguínea[^52]. Se debe considerar que en este estudio solo el 40.7% de los participantes presentaba una concentración sérica de vitamina D por debajo del rango normal, por lo que los beneficios esperados no hayan sido destacables como si se esperaría de una población con insuficiencia de vitamina D. 
@@ -136,10 +142,12 @@ A pesar de la evidencia positiva, los estudios en humanos realizados hasta la fe
 ## Accion de la vitamina D en pacientes con enfermedad pulmonar obstructiva crónica (EPOC) 
 
 En pacientes EPOC se ha detectado una menor concentración de vitamina D plasmática, por lo que se ha considerado que esta podría afectar directamente la progresión y severidad de la condición[^53][^54]. 
+
 [^53]: Maltais F, Decramer M, Casaburi R, Barreiro E, Burelle Y, Debigaré Ret al. . An official American Thoracic Society/European Respiratory Society statement: update on limb muscle dysfunction in chronic obstructive pulmonary disease. Am J Respir Crit Care Med. 2014;189(9):e15–62.
 [^54]: Swallow EB, Reyes D, Hopkinson NS, Man WD, Porcher R, Cetti EJet al. . Quadriceps strength predicts mortality in patients with moderate to severe chronic obstructive pulmonary disease. Thorax. 2007;62(2):115–20.
 
 La enfermedad pulmonar obstructiva crónica se caracteriza por una limitación progresiva de la capacidad pulmonar producto de una inflamación anormal del tejido producto de agentes irritantes como el humo de tabaco[^55]. Gracias a la relación de la vitamina D sobre el sistema inmune se teoriza que su presencia disminuiría a los factores de proinflamacion responsables de las exacerbaciones[^56]. Se sugiere también que gracias al factor antimicrobiano que tiene sobre el cuerpo se evitarían episodios de excaservacion asociados a enfermedades infecciosas pulmonares[^56], que son responsables de gran parte de las hospitalizaciones de estos pacientes.  
+
 [^55]: Rafiq, R., Aleva, F. E., Schrumpf, J. A., Daniels, J. M., Bet, P. M., Boersma, W. G., Bresser, P., Spanbroek, M., Lips, P., Van Den Broek, T. J., Keijser, B. J., Van Der Ven, A. J., Hiemstra, P. S., Heijer, M. D., & De Jongh, R. T. (2022). Vitamin D supplementation in chronic obstructive pulmonary disease patients with low serum vitamin D: a randomized controlled trial. American Journal of Clinical Nutrition, 116(2), 491–499. https://doi.org/10.1093/ajcn/nqac083 
 [^56]: Bouillon R, Marcocci C, Carmeliet G, Bikle D, White JH, Dawson-Hughes Bet al. . Skeletal and extraskeletal actions of vitamin D: current evidence and outstanding questions. Endocr Rev. 2019;40(4):1109–51.
 
@@ -150,11 +158,13 @@ Sin embargo, no existe evidencia que confirme una disminución en el número de 
 ## Efecto de la vitamina D en la progresión de diabetes mellitus 2 
 
 Se ha asociado una deficiencia de vitamina D en pacientes diabéticos[^57]. Se considera que la presencia de vitamina D puede presentar un factor protector ante la progresión de la enfermedad, particularmente por la presencia de receptores de los metabolitos de vitamina D en órganos relacionados con la enfermedad como el hígado, músculos, tejido adiposo y celulas beta[^58][^59]. 
+
 [^57]: Holick MF. Vitamin D deficiency. N Engl J Med. 2007;357(3): 266–81.
 [^58]: Mathieu C. Vitamin D and diabetes: Where do we stand? Diabetes Res Clin Pract 2015;108(2):201–9
 [^59]: Berridge MJ. Vitamin D deficiency and diabetes. Biochem J. 2017;474(8):1321–32.
 
 La vitamina D influye en la sensibilidad a la insulina[^60]. Está involucrada en la secreción de la insulina, en las celulas pancreáticas se encuentran receptores asociados la presencia de vitamina D, estos secretan insulina dependiendo de cambios en la concentración intracelular de calcio y el flujo de calcio se encuentra regulado por metabolitos de vitamina D[^60]. Un mecanismo similar se encuentra en las celulas adiposas, donde el flujo de calcio puede afectar en la lipogénesis y lipolisis de las reservas adiposas[^61]. 
+
 [^60]: Derosa, G., D’Angelo, A., Martinotti, C., Valentino, M. C., Di Matteo, S., Bruno, G. M., & Maffioli, P. (2020). Vitamin D3 supplementation improves glycemic control in type 2 diabetic patients: Results from an Italian clinical trial. International Journal for Vitamin and Nutrition Research, 92(2), 91–100. https://doi.org/10.1024/0300-9831/a000673 
 [^61]: Shi H, Norman AW, Okamura WH, Sen A, Zemel MB.1alpha,25-dihydroxyVitamin D3 inhibits uncoupling protein 2 expression in human adipocytes. Faseb J. 2002;16:1808–10.
 
@@ -166,6 +176,7 @@ En pacientes diabéticos se vio una reducción significativa en la prueba de glu
 La incidencia en el aumento de episodios depresivos asociados a cambios estacionales es alta, por lo que ha surgido el interés en el uso de suplementación de vitamina D como objeto terapéutico.  
 
 Hasta la fecha muchos estudios han evaluado su potencial terapéutico, mostrando resultados contradictorios entre sí. Un estudio estadounidense publicado en 2020 para la revista médica JAMA estudio el efecto en un periodo de 5.3 años en 18.353 pacientes mayores de 50 años sin enfermedades psicológicas de base, concluyó que la suplementación con vitamina D no tenía una incidencia estadísticamente significante sobre síntomas depresivos o mejorías del ánimo[^62]. Por otro lado, en 2024 se publicó un estudio realizado en la india a jóvenes adolescentes de procedencia rural, este seguimiento fue realizado por un periodo de tres años donde se concluyó un efecto positivo con la suplementación con un bajo reporte de síntomas depresivos[^63].
+
 [^62]: Okereke, O. I., Reynolds, C. F., Mischoulon, D., Chang, G., Vyas, C. M., Cook, N. R., Weinberg, A., Bubes, V., Copeland, T., Friedenberg, G., Lee, I., Buring, J. E., & Manson, J. E. (2020). Effect of Long-term Vitamin D3 Supplementation vs Placebo on Risk of Depression or Clinically Relevant Depressive Symptoms and on Change in Mood Scores. JAMA, 324(5), 471. https://doi.org/10.1001/jama.2020.10224 
 [^63]: Satyanarayana, P. T., Suryanarayana, R., Yesupatham, S. T., Ramalingareddy, S. R. V., & Gopalli, N. A. (2024). Does Vitamin D3 Supplementation Improve Depression Scores among Rural Adolescents? A Randomized Controlled Trial. Nutrients, 16(12), 1828. https://doi.org/10.3390/nu16121828 
 

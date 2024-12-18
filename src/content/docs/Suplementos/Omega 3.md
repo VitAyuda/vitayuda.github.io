@@ -1,9 +1,11 @@
 ---
 title: Omega 3
 ---
+
  
 
 El omega 3 son un grupo heterogéneo de ácidos grasos con doble cadena en el carbono ω−3, los más relevantes en la nutrición humana son acido eicosapentaenoico/EPA (cadena 20:5-3), acido eicosapentaenoico/DHA (22:6n-3), acido alfa-linoleico/ALA (18:3n-3)[^1][^3].  EPA y DHA son encontrados principalmente en carnes de pescado de aguas frías, ya que en su ambiente natural requieren de mayor contenido lipídico para adaptarse a las temperaturas. Pescados como atun, salmón y sardinas son buenas fuentes de omega 3[^2]. 
+
 [^1]: Saini, R. K., & Keum, Y. S. (2018). Omega-3 and omega-6 polyunsaturated fatty acids: Dietary sources, metabolism, and significance—A review. Life sciences, 203, 255-267.
 [^2]: National Institutes of Health. (2020). Office of Dietary Supplements. Omega-3 fatty acids.
 [^3]: Cholewski M., Tomczykowa M., Tomczyk M. A comprehensive review of chemistry, sources and bioavailability of omega-3 fatty acids. Nutrients. 2018;10(11):1662. doi: 10.3390/nu10111662. 
@@ -48,6 +50,7 @@ Los mecanismos de accion asociados a esta función contemplan en primer lugar el
 [^9]: Robinson J.G., Stone N.J. Antiatherosclerotic and antithrombotic effects of omega-3 fatty acids. Am. J. Cardiol. 2006;98(4A):39i–49i. doi: 10.1016/j.amjcard.2005.12.026.
 
 Nuevos estudios han ahondado en la actividad de omega 3 en el perfil lipídico han observado una diferencia entre la accion de EPA y DHA. Experimentos in vitro han observado que la disminución de col-LDL se da con el consumo de EPA, pero no con DHA[^10][^11][^12].  
+
 [^10]: Bays H.E., Ballantyne C.M., Kastelein J.J., Isaacsohn J.L., Braeckman R.A., Soni P.N. Eicosapentaenoic acid ethyl ester (AMR101) therapy in patients with very high triglyceride concentrations (from the Multi-center, plAcebo-controlled, Randomized, double-blINd, 12-week study with an open-label Extension [MARINE] trial) Am. J. Cardiol. 2011;108(5):682–690. doi: 10.1016/j.amjcard.2011.04.015.
 [^11]: Ballantyne C.M., Bays H.E., Kastelein J.J., Stein E., Isaacsohn J.L., Braeckman R.A., Soni P.N. Efficacy and safety of eicosapentaenoic acid ethyl ester (AMR101) therapy in statin-treated patients with persistent high triglycerides (from the ANCHOR study) Am. J. Cardiol. 2012;110(7):984–992. doi: 10.1016/j.amjcard.2012.05.031.
 [^12]: Bhatt, D. L., Steg, P. G., Miller, M., Brinton, E. A., Jacobson, T. A., Ketchum, S. B., ... & Ballantyne, C. M. (2019). Cardiovascular risk reduction with icosapent ethyl for hypertriglyceridemia. New England Journal of Medicine, 380(1), 11-22.
@@ -98,6 +101,7 @@ Los mecanismos asociados a esta función son variados y se potencian entre sí. 
 ## Accion coadyuvante en la capacidad cognitiva 
 
 La capacidad cognitiva se puede ver deteriorada por múltiples factores naturales como la edad, genética y nutrición[^25]. Se ha observado una asociación entre el deterioro de la función cognitiva y el sobrepeso, se cree que esto es por el estrés oxidativo e inflamación crónica a nivel del cerebro que perjudica su desarrollo e integridad producto de una mayor concentración de subproductos del metabolismo de azucares[^26][^30]. 
+
 [^25]: Glisky EL. Changes in Cognitive Function in Human Aging. In: Riddle DR, editor. Brain Aging: Models, Methods, and Mechanisms. Boca Raton (FL): CRC Press/Taylor & Francis; 2007:1-27
 [^26]: Siervo M, Arnold R, Wells JC, Tagliabue A, Colantuoni A, Albanese E, et al. Intentional weight loss in overweight and obese individuals and cognitive
 function: a systematic review and meta-analysis. Obes Rev 2011;12(11):968- 83. DOI: 10.1111/j.1467-789X.2011.00903.x

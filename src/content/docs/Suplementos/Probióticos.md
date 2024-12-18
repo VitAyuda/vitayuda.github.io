@@ -1,6 +1,7 @@
 ---
 title: Probióticos
 ---
+
  
 
 Se puede obtener de alimentos como yogurt, kimchi y kombucha. 
@@ -13,6 +14,7 @@ En todo nuestro cuerpo podemos encontrar conjuntos de familias de microorganismo
 [^2]: HONDA K & LITTMAN DR 2012. The microbiome in infectious disease and inflammation. Annu Rev Immunol 30: 759-795.
 
 A pesar de que los microbiomas se pueden encontrar a lo largo del cuerpo, uno de los más relevantes y donde se tienden a enfocar los estudios relacionados es la microbiota intestinal. La microbiota intestinal alberga más de 1000 especies distintas de bacterias que actúan como conjunto, formando una compleja y dinámica población microbiana[^3]. Algunos expertos consideran a la microbiota intestinal como un ‘órgano invisible’ que desempeña un papel crucial en la salud humana. Entre las funciones que se le atribuyen esta: fortalecer la integridad y defensas del intestino[^5]; ayuda en la digestión de alimentos contribuyendo a la obtención de nutrientes y síntesis de vitaminas[^4], sin su presencia el cuerpo no podría obtener nutrientes importantes; afecta funciones neurológicas y del comportamiento[^6][^7]; está involucrado en el metabolismo, absorción, toxicidad y biodisponibilidad de medicamentos[^8].  
+
 [^3]: QIN J ET AL. 2010. A human gut microbial gene catalogue established by metagenomic sequencing. Nature 464(7285): 59-65.
 [^4]: URSELL LK, METCALF JL, PARFREY LW & KNIGHT R. 2012. Defining the human microbiome. Nutr Rev 70(suppl_1): S38-S44.
 [^5]: NATIVIDAD JM & VERDU EF. 2013. Modulation of intestinal barrier by intestinal microbiota: pathological and therapeutic implications. Pharmacol Res 69(1): 42-51.
@@ -31,6 +33,7 @@ Su presencia e integridad es fundamental para mantener la homeostasis del cuerpo
 [^12]: RINNINELLA E, RAOUL P, CINTONI M, FRANCESCHI F, MIGGIANO GAD, GASBARRINI A & MELE MC. 2019. What is the healthy gut microbiota composition? a changing ecosystem across age, environment, diet, and diseases. Microorganisms 7(1): 14.
 
 Los probióticos son microorganismos vivos que al ser consumidos en cantidades correctas pueden beneficiar la salud de la persona[^13], modulando la respuesta inmune, procesos metabólicos, antioxidantes y antiinflamatorios[^14]. El tiempo necesario para ver alteraciones significativas en la microbiota es de 8 semanas[^15]. La eficacia es dependiente de la cepa[^16], cantidad y variedad, y su necesidad va a depender de la microbiota original y hábitos de la persona[^17]. 
+
 [^13]: RINNINELLA E, RAOUL P, CINTONI M, FRANCESCHI F, MIGGIANO GAD, GASBARRINI A & MELE MC. 2019. What is the healthy gut microbiota composition? a changing ecosystem across age, environment, diet, and diseases. Microorganisms 7(1): 14.
 [^14]: QUIGLEY EM. 2019. Prebiotics and probiotics in digestive health. Clin Gastroenterol Hepatol 17(2): 333-344.
 [^15]: DETHLEFSEN L, HUSE S, SOGIN ML & RELMAN DA. 2008. The pervasive effects of an antibiotic on the human gut microbiota, as revealed by deep 16S rRNA sequencing. PLoS Biol 6(11): e280.
@@ -38,6 +41,7 @@ Los probióticos son microorganismos vivos que al ser consumidos en cantidades c
 [^17]: MAIER TV ET AL. 2017. Impact of dietary resistant starch on the human gut microbiome, metaproteome, and metabolome. MBio 8(5): e01343-17.
 
 Estudios recientes han demostrado que una composición de microbiota intestinal más rica, diversa y balanceada está asociada a una expectativa de vida más larga y saludable[^18][^19]. La mayoría de los estudios sobre el tema varían en tipo de cepa investigada, por lo que no se podría considerar que existe un solo tipo de cepa que potencie la salud por sobre otra, y que en realidad es la variedad y cantidad lo que potencia el efecto.  
+
 [^18]: Kong F., Deng F., Li Y., Zhao J. Identification of Gut Microbiome Signatures Associated with Longevity Provides a Promising Modulation Target for Healthy Aging. Gut Microbes. 2019;10:210–215. doi: 10.1080/19490976.2018.1494102.
 [^19]: Minhoo Kim B.A.B. The Microbiome: An Emerging Key Player in Aging and Longevity. Transl. Med. Aging. 2020;4:103–116.
 
@@ -128,6 +132,7 @@ Esto solo indica aquellas comprobadas como efectivas, pero la mayoría de las pu
 ## Accion coadyuvante en diabetes mellitus 2
 
 Hay un interés creciente en el uso de probióticos para combatir condiciones asociadas a la obesidad por la relación que hay entre la microbiota intestinal y el metabolismo. Cambios en la microbiota intestinal suelen acompañar el desarrollo de diabetes mellitus 2[^49][^50]. Pacientes diabéticos tienden a presentar una menor diversidad bacteriana en su microbiota, con mayor abundancia de bacterias Gram positivas por sobre Gram negativas[^51]. Un desbalance en la microbiota puede estimulan la producción de citoquinas que reducen la sensibilidad a la insulina y aceleran la aparición de diabetes. 
+
 [^49]: Komaroff A.L. The Microbiome and Risk for Obesity and Diabetes. J. Am. Med. Assoc. 2017;317:355–356. doi: 10.1001/jama.2016.20099.
 [^50]: Zhao L.P., Zhang F., Ding X.Y., Wu G.J., Lam Y.Y., Wang X.J., Fu H.Q., Xue X.H., Lu C.H., Ma J.L., et al. Gut bacteria selectively promoted by dietary fibers alleviate type 2 diabetes. Science. 2018;359:1151. doi: 10.1126/science.aao5774.
 [^51]: Que Y.Y., Cao M., He J.Q., Zhang Q., Chen Q.Y., Yan C.S., Lin A.Q., Yang L.X., Wu Z.Z., Zhu D., et al. Gut Bacterial Characteristics of Patients with Type 2 Diabetes Mellitus and the Application Potential. Front. Immunol. 2021;12:3218. doi: 10.3389/fimmu.2021.722206.
