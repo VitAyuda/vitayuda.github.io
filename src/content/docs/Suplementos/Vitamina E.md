@@ -1,13 +1,15 @@
 ---
 title: Vitamina E
----
+---  
 
  
 
 El consumo basal de vitamina E en adultos saludables es 15 mg/día. 
 
-
 ![Captura de pantalla 2024-11-20 154300.png](../_resources/Captura%20de%20pantalla%202024-11-20%20154300.png)
+
+Ingesta maxima tolerable: 1000 mg/día.
+La ingesta maxima toletrable considera solamente la suplementacion de la vitamina E y no su consumo desde la dieta. 
 
 Se encuentra naturalmente en alimentos ricos en grasas como nueces, semillas y aceites vegetales. 
 

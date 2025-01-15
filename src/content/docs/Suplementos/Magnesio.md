@@ -9,6 +9,13 @@ Consumo basal de magnesio: 3-5 mg/kg (en adultos saludables).
 
 ![Captura de pantalla 2024-11-20 140603.png](../_resources/Captura%20de%20pantalla%202024-11-20%20140603.png)
 
+Ingesta maxima tolerable: 350 mg/dia. 
+
+La ingesta maxima tolerable considera los miligramos obtenidos exclusivamente desde la suplementacion, mientras que el consumo basal asume que el magnesio se ingiere desde la dieta[^35].
+Un alto consumo de magnesio no supone un riesgo para la salud ya que el exceso se elimina por los riñones. Sin embargo dosis altas por medio de suplementos alimenticios pueden producir dolor abdominal y diarrea.
+
+[^35]: Office of Dietary Supplements - magnesium. (n.d.). https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/#h2
+
 ## Informacion general
 Es el cuarto catión más importantes en el cuerpo humano y participa en más de 600 reacciones enzimáticas; interviene en la degradación de macronutrientes esenciales en la dieta; fosforilación oxidativa; síntesis de proteínas y ADN; excitabilidad neuromuscular y también regular la secreción de la hormona paratiroidea.[^1]
 

@@ -1,11 +1,13 @@
 ---
 title: Vitamina D3
----
+--- 
 
 ![aa0519575acb3841a83baf11ddb43c61.png](../_resources/aa0519575acb3841a83baf11ddb43c61.png)[^68]
 
 [^68]: Office of Dietary Supplements - Vitamin D. (n.d.). https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
- 
+
+Ingesta maxima tolerable: 100 mcg (4,000 IU) al día. 
+Altas dosis de vitamina D pueden ser toxicas. Su consumo va a depender directamente con las necesidades de la persona[^68].
 
 La vitamina D es un micronutriente liposoluble que difícilmente se encuentra en los alimentos, en los humanos la vitamina D se obtiene de manera endógena, es decir, que el mismo cuerpo la sintetiza a partir de la exposición solar[^1]. Debido a los hábitos que mantiene la mayoría de la población y características de la latitud donde se vive, la insuficiencia de vitamina D es muy común. Alimentos grasos como atún, sardinas, salmón, hígado y yema de huevos tienen a proporcionar una buena fuente de este micronutriente a la dieta, por otro lado, podemos encontrar muchos alimentos como sopas, jugos y cereales fortificados con esta vitamina para manejar en problema de insuficiencia en la población[^2].  
 

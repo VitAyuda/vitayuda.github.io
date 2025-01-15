@@ -6,6 +6,11 @@ El consumo basal de vitamina C en un adulto saludable es variable según las con
 
 ![Captura de pantalla 2024-11-20 160008.png](../_resources/Captura%20de%20pantalla%202024-11-20%20160008.png)
 
+Ingesta maxima tolerable: 2000 mg/dia. 
+Esto considera tanto lo consumido desde la dieta como lo suplementado. En general el riesgo de efectos adversos es minimo incluso en altas dosis[^74].
+
+[^74]: Office of Dietary Supplements - Vitamin C. (n.d.). https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/#h19
+
 A diferencia de otras vitaminas, el contenido de vitamina C en las comidas suele ser relativamente alto, y en alimentos que están disponibles a lo largo del año por lo que su deficiencia es rara de ver[^1]. 
 
 [^1]: Doseděl, M., Jirkovský, E., Macáková, K., Krčmová, L. K., Javorská, L., Pourová, J., Mercolini, L., Remião, F., Nováková, L., Mladěnka, P., & Oemonom, N. O. B. O. (2021). Vitamin C—Sources, Physiological role, kinetics, Deficiency, use, toxicity, and Determination. Nutrients, 13(2), 615. https://doi.org/10.3390/nu13020615 

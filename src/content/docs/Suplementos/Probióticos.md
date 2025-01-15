@@ -2,7 +2,6 @@
 title: Probióticos
 ---
 
- 
 
 Se puede obtener de alimentos como yogurt, kimchi y kombucha. 
 

@@ -1,7 +1,6 @@
 ---
 title: Colágeno
 ---
-
  
 
 La dosis oral efectiva para el tratamiento de dolor articular se ha propuesto como 15 mg/día. 
